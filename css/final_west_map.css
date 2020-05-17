@@ -1,0 +1,105 @@
+.chipotle {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 310px;
+  left: 450px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.lucky {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 785px;
+  left: 515px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.corner {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 330px;
+  left: 270px;
+  background: url("../images/c_icon_o.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.republic {
+  position: relative;
+  width: 33px;
+  height: 33px;
+  top: 280px;
+  left: 385px;
+  background: url("../images/s_icon_o.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.seven {
+  position: relative;
+  width: 33px;
+  height: 33px;
+  top: 275px;
+  left: 350px;
+  background: url("../images/s_icon_g.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.rarig {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 650px;
+  left: 650px;
+  background: url("../images/c_icon_g.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.carlson {
+  position: relative;
+  width: 33px;
+  height: 33px;
+  top: 660px;
+  left: 460px;
+  background: url("../images/s_icon_g.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.willey {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 280px;
+  left: 570px;
+  background: url("../images/c_icon_g.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.c_text {
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: white;
+  line-height: 28px;
+}
+
+.s_text {
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: white;
+  line-height: 38px;
+}

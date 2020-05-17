@@ -1,0 +1,135 @@
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltipcontent {
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+  left: 35px;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.tooltip:hover .tooltipcontent {
+  visibility: visible;
+  opacity: 1;
+}
+
+.tooltip .tooltipcontent_b {
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+  left: 35px;
+  top: -170px;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.tooltip:hover .tooltipcontent_b {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+.popup_r {
+  position: absolute;
+  width: 170px;
+  height: 200px;
+  background: url("../images/popup_icon_r.png") no-repeat center;
+  background-size: contain;
+}
+
+.popup_o {
+  position: absolute;
+  width: 170px;
+  height: 200px;
+  background: url("../images/popup_icon_o.png") no-repeat center;
+  background-size: contain;
+}
+
+.popup_g {
+  position: absolute;
+  width: 170px;
+  height: 200px;
+  background: url("../images/popup_icon_g.png") no-repeat center;
+  background-size: contain;
+}
+
+.popup_b {
+  position: absolute;
+  width: 170px;
+  height: 200px;
+  background: url("../images/popup_icon_b.png") no-repeat center;
+  background-size: contain;
+}
+
+.popup_num_c {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  background: url("../images/c_icon_w.png") no-repeat center;
+  background-size: contain;
+  top: 8px;
+  left: 7px;
+  text-align: center;
+}
+
+.popup_num_s {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background: url("../images/s_icon_w.png") no-repeat center;
+  background-size: contain;
+  top: 5px;
+  left: 4px;
+  text-align: center;
+}
+
+.popup_num_ct {
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: white;
+  line-height: 36px;
+}
+
+.popup_num_st {
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: white;
+  line-height: 44px;
+}
+
+.popup_text_box {
+  position: absolute;
+  width: 150px;
+  height: 22px;
+  /* background-color: gray; */
+  top: 53px;
+  left: 3px;
+  text-align: left;
+}
+
+.popup_text {
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 17px;
+  color: #1B143E;
+  line-height: 17px;
+}
+
+.popup_photo {
+  position: absolute;
+  width: 160px;
+  height: 90px;
+  background-color: black;
+  top: 100px;
+  left: 5px;
+  overflow: hidden;
+}

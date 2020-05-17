@@ -1,0 +1,109 @@
+.label_r {
+  position: relative;
+  width: 300px;
+  height: 150px;
+  background: url("../images/label_icon_r.png") no-repeat center;
+  background-size: contain;
+  margin-top: 10px;
+}
+
+.label_o {
+  position: relative;
+  width: 300px;
+  height: 150px;
+  background: url("../images/label_icon_o.png") no-repeat center;
+  background-size: contain;
+  margin-top: 10px;
+}
+
+.label_g {
+  position: relative;
+  width: 300px;
+  height: 150px;
+  background: url("../images/label_icon_g.png") no-repeat center;
+  background-size: contain;
+  margin-top: 10px;
+}
+
+.label_b {
+  position: relative;
+  width: 300px;
+  height: 150px;
+  background: url("../images/label_icon_b.png") no-repeat center;
+  background-size: contain;
+  margin-top: 10px;
+}
+
+.label_num_c {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  background: url("../images/c_icon_w.png") no-repeat center;
+  background-size: contain;
+  top: 5px;
+  left: 5px;
+  text-align: center;
+}
+
+.label_num_s {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  background: url("../images/s_icon_w.png") no-repeat center;
+  background-size: contain;
+  top: 5px;
+  left: 4px;
+  text-align: center;
+}
+
+.label_num_ct {
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: white;
+  line-height: 36px;
+}
+
+.label_num_st {
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: white;
+  line-height: 44px;
+}
+
+.label_text_box {
+  position: absolute;
+  width: 235px;
+  height: 30px;
+  /* background-color: gray; */
+  top: 10px;
+  left: 55px;
+}
+
+.label_text {
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  color: #1B143E;
+}
+
+.label_photo {
+  position: absolute;
+  width: 240px;
+  height: 100px;
+  /* background-color: black; */
+  top: 40px;
+  left: 52px;
+  overflow: hidden;
+}
+
+.empty {
+  position: relative;
+  width: 300px;
+  height: 200px;
+  margin-top: 10px;
+}

@@ -1,0 +1,171 @@
+.annie {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 600px;
+  left: 340px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.andreaPizza {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 260px;
+  left: 330px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.kbop {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 100px;
+  left: 430px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.tastyPot {
+  position: relative;
+  width: 33px;
+  height: 33px;
+  top: 310px;
+  left: 580px;
+  background: url("../images/s_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.alBreakfast {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 340px;
+  left: 530px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.mesa {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 390px;
+  left: 510px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.bonchon {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 420px;
+  left: 515px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.insomnia {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 460px;
+  left: 470px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.fiveGuys {
+  position: relative;
+  width: 33px;
+  height: 33px;
+  top: 515px;
+  left: 530px;
+  background: url("../images/s_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.pagoda {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 530px;
+  left: 530px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.raisingCanes {
+  position: relative;
+  width: 33px;
+  height: 33px;
+  top: 880px;
+  left: 490px;
+  background: url("../images/s_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.purpleOnion {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 580px;
+  left: -50px;
+  background: url("../images/c_icon_g.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.chatime {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 560px;
+  left: 110px;
+  background: url("../images/c_icon_g.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.starbucksD {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 280px;
+  left: 310px;
+  background: url("../images/c_icon_g.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.c_text {
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: white;
+  line-height: 28px;
+}
+
+.s_text {
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: white;
+  line-height: 38px;
+}

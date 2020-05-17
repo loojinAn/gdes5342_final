@@ -1,0 +1,182 @@
+.punch {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 550px;
+  left: 590px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.blaze {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 545px;
+  left: 800px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.myBurger {
+  position: relative;
+  width: 33px;
+  height: 33px;
+  top: 395px;
+  left: 630px;
+  background: url("../images/s_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.bona {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 490px;
+  left: 605px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.mumu {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 580px;
+  left: 785px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.kimchiTofu {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 580px;
+  left: 600px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.kowloon {
+  position: relative;
+  width: 33px;
+  height: 33px;
+  top: 490px;
+  left: 735px;
+  background: url("../images/s_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.teaHouse {
+  position: relative;
+  width: 33px;
+  height: 33px;
+  top: 500px;
+  left: 925px;
+  background: url("../images/s_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.hongKong {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 490px;
+  left: 655px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.stubHerbs {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 490px;
+  left: 320px;
+  background: url("../images/c_icon_o.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.luchador {
+  position: relative;
+  width: 33px;
+  height: 33px;
+  top: 490px;
+  left: 375px;
+  background: url("../images/s_icon_o.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.buffalo {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 170px;
+  left: 360px;
+  background: url("../images/c_icon_o.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.starbucksE {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 460px;
+  left: -120px;
+  background: url("../images/c_icon_g.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.keller {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 420px;
+  left: -320px;
+  background: url("../images/c_icon_g.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.mcnamara {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 320px;
+  left: 80px;
+  background: url("../images/c_icon_b.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.c_text {
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: white;
+  line-height: 28px;
+}
+
+.s_text {
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: white;
+  line-height: 38px;
+}

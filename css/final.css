@@ -1,0 +1,309 @@
+.slide {
+  width: 100vw;
+  height: 100vh;
+}
+
+.fp-slidesNav{ /* CSS customization for navigation button positions */
+    width: 140px; /* set dimensions to make positioning easier */
+    height: 30px; /* set dimensions to make positioning easier */
+    left: 50%; /* standard centering attributes */
+    transform: translateX(-50%); /* standard centering attributes */
+}
+
+#fp-nav ul li a span, .fp-slidesNav ul li a span {
+  background: rgba(75, 101, 132, 0.4); /* CSS customization for inactive buttons */
+}
+
+#fp-nav ul li a.active span, .fp-slidesNav ul li a.active span, #fp-nav ul li:hover a.active span, .fp-slidesNav ul li:hover a.active span {
+  background: #4b6584; /* CSS customization for active button */
+}
+
+
+.background_box_1 {
+  width: 1670px;
+  height: 1000px;
+  background: url("../images/map_all.png") no-repeat left;
+  background-size: cover;
+}
+
+.background_box_2 {
+  width: 1670px;
+  height: 1000px;
+  background: url("../images/map_dinkytown.png") no-repeat left;
+  background-size: cover;
+}
+
+.background_box_3 {
+  width: 1670px;
+  height: 1000px;
+  background: url("../images/map_east.png") no-repeat left;
+  background-size: cover;
+}
+
+.background_box_4 {
+  width: 1670px;
+  height: 1000px;
+  background: url("../images/map_west.png") no-repeat left;
+  background-size: cover;
+}
+
+.background_box_5 {
+  width: 1670px;
+  height: 1000px;
+  background: url("../images/map_downtown.png") no-repeat left;
+  background-size: cover;
+}
+
+.downtown_p {
+  width: 500px;
+  height: 460px;
+  background: url("../images/downtown_w.png") no-repeat center;
+  background-size: cover;
+  position: absolute;
+  top: 280px;
+  left: 280px;
+}
+
+.dinkytown_p {
+  width: 300px;
+  height: 370px;
+  background: url("../images/dinkytown_w.png") no-repeat center;
+  background-size: cover;
+  position: absolute;
+  top: 210px;
+  left: 920px;
+}
+
+.eastbank_p {
+  width: 510px;
+  height: 150px;
+  background: url("../images/east_w.png") no-repeat center;
+  background-size: cover;
+  position: absolute;
+  top: 640px;
+  left: 1070px;
+}
+
+.westbank_p {
+  width: 200px;
+  height: 250px;
+  background: url("../images/west_w.png") no-repeat center;
+  background-size: cover;
+  position: absolute;
+  top: 620px;
+  left: 700px;
+}
+
+.page_title_box_1 {
+  position: absolute;
+  width: 300px;
+  height: 100px;
+  top: 25px;
+  left: 0%;
+  text-align: left;
+}
+
+.page_title_box_2 {
+  position: absolute;
+  width: 300px;
+  height: 100px;
+  top: 25px;
+  left: 20%;
+  text-align: left;
+}
+
+.page_title_box_3 {
+  position: absolute;
+  width: 300px;
+  height: 100px;
+  top: 25px;
+  left: 40%;
+  text-align: left;
+}
+
+.page_title_box_4 {
+  position: absolute;
+  width: 300px;
+  height: 100px;
+  top: 25px;
+  left: 60%;
+  text-align: left;
+}
+
+.page_title_box_5 {
+  position: absolute;
+  width: 300px;
+  height: 100px;
+  top: 25px;
+  left: 80%;
+  text-align: left;
+}
+
+.page_title_text {
+  font-family: balboa-plus-primary, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 70px;
+  color: #1B143E;
+  /* margin-top: 8px; */
+  margin-left:20px;
+}
+
+.searchBox {
+  position: absolute;
+  top: 20px;
+  right: 25px;
+  background: white;
+  height: 30px;
+  border-radius: 15px;
+  padding: 10px;
+  z-index: 1;
+}
+
+.searchB {
+  color: #4b6584;
+  float: right;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.searchT {
+  border: none;
+  background: none;
+  outline: none;
+  float: left;
+  padding: 0;
+  color: #4b6584;
+  font-size: 14px;
+  line-height: 30px;
+  width: 250px;
+}
+
+.backdrop1 {
+  position: absolute;
+  right: 80%;
+  top: 0;
+  width: 350px;
+  height: 100vh;
+}
+
+.backdrop2 {
+  position: absolute;
+  right: 60%;
+  top: 0;
+  width: 350px;
+  height: 100vh;
+  background: rgba(75, 101, 132, 0.4);
+}
+
+.backdrop3 {
+  position: absolute;
+  right: 40%;
+  top: 0;
+  width: 350px;
+  height: 100vh;
+  background: rgba(75, 101, 132, 0.4);
+}
+
+.backdrop4 {
+  position: absolute;
+  right: 20%;
+  top: 0;
+  width: 350px;
+  height: 100vh;
+  background: rgba(75, 101, 132, 0.4);
+}
+
+.backdrop5 {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 350px;
+  height: 100vh;
+  background: rgba(75, 101, 132, 0.4);
+}
+
+.sectionBox1 {
+  position: relative;
+  /* background: white; */
+  width: 300px;
+  height: 60px;
+  top: 90px;
+  left: 50%;
+  transform: translateX(-50%);
+  /* text-align: center; */
+}
+
+.sectionBox2 {
+  position: relative;
+  background: white
+  /* background: url("../images/icon_list_1.png") no-repeat center;
+  background-size: contain; */
+  width: 300px;
+  height: 30px;
+  top: 90px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.sectionBox3 {
+  position: relative;
+  /* background: pink; */
+  width: 300px;
+  height: 100vh;
+  top: 90px;
+  left: 50%;
+  transform: translateX(-50%);
+  overflow: scroll;
+  margin-top: 10px;
+}
+
+.sectionIcon1 {
+  position: relative;
+  background: url("../images/site_icon_01.png") no-repeat center;
+  background-size: contain;
+  width: 60px;
+  height: 60px;
+  float: left;
+}
+
+.sectionIcon2 {
+  position: relative;
+  background: url("../images/site_icon_02.png") no-repeat center;
+  background-size: contain;
+  width: 60px;
+  height: 60px;
+  float: left;
+}
+
+.sectionIcon3 {
+  position: relative;
+  background: url("../images/site_icon_03.png") no-repeat center;
+  background-size: contain;
+  width: 60px;
+  height: 60px;
+  float: left;
+}
+
+.sectionIcon4 {
+  position: relative;
+  background: url("../images/site_icon_04.png") no-repeat center;
+  background-size: contain;
+  width: 60px;
+  height: 60px;
+  float: left;
+}
+
+.sectionIcon5 {
+  position: relative;
+  background: url("../images/site_icon_05.png") no-repeat center;
+  background-size: contain;
+  width: 60px;
+  height: 60px;
+  float: left;
+}

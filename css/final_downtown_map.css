@@ -1,0 +1,116 @@
+.zen_box {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 560px;
+  left: 630px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.sawatdee {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 600px;
+  left: 570px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.izzy {
+  position: relative;
+  width: 33px;
+  height: 33px;
+  top: 695px;
+  left: 920px;
+  background: url("../images/s_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.aster {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 140px;
+  left: 860px;
+  background: url("../images/c_icon_r.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.guthrie {
+  position: relative;
+  width: 33px;
+  height: 33px;
+  top: 590px;
+  left: 625px;
+  background: url("../images/s_icon_b.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.mill {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 530px;
+  left: 570px;
+  background: url("../images/c_icon_b.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.stone {
+  position: relative;
+  width: 33px;
+  height: 33px;
+  top: 420px;
+  left: 785px;
+  background: url("../images/s_icon_b.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.theatre {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 120px;
+  left: 700px;
+  background: url("../images/c_icon_b.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.gold {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  top: 650px;
+  left: 700px;
+  background: url("../images/c_icon_b.png") no-repeat center;
+  background-size: contain;
+  text-align: center;
+}
+
+.c_text {
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: white;
+  line-height: 28px;
+}
+
+.s_text {
+  font-family: source-sans-pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  color: white;
+  line-height: 38px;
+}
